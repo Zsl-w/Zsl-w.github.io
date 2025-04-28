@@ -1,6 +1,6 @@
 ---
-title: Error in get_anno_data(ontology) : ontology not supported yet...
-date: 2025-04-30 12:00:00 +0800
+title: Error in get_anno_data(ontology)  ontology not supported yet
+date: 2025-04-29 12:00:00 +0800
 categories: [DO富集]
 tags: [DO富集分析, R语言]
 ---
